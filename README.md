@@ -2,7 +2,7 @@
 //console application model
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 📚 Knowledge House – A Library Management System
+# 📚 The History & Knowledge Hub – A Library Management System
 
 ## 🏷️ Project Title
 **The History & Knowledge Hub** – A Library Management System
